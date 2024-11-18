@@ -11,6 +11,6 @@
 - 🤔 I use daily `.php`,` .py`, `.sql`
 - :student: I’m currently learning `Python and their frameworks`, `Software Engineering` and still working with `Laravel`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY Linkedin profile](https://www.linkedin.com/in/facundo-enriquez/).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY LINKEDIN PROFILE](https://www.linkedin.com/in/facundo-enriquez/).
   
 <br>
